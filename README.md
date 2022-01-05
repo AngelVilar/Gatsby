@@ -1,1 +1,1 @@
-# UEES-Gatsby
+# Gatsby
